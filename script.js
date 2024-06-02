@@ -54,7 +54,7 @@ function UpdateTimer() {
   // 25分経過したかどうかをチェック
   if (elapsedTime >= /*25 * 60 * */ 5000 && !notified) {
     //window.location.href = "https://www.youtube.com/", "_blank";  // ここに遷移先のURLを指定
-    window.open('https://www.youtube.com/', '_blank', 'width=600, height=200');
+    window.open('window.html', '_blank', 'width=600, height=200');
     // file:///C:/Users/shunkim/Desktop/timer/window.html
     notified = true;
   }
