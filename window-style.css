@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+  }
+  
+  #timerString {
+    font-size: 3em;
+  }
+h1 {
+    color: rgb(0, 255, 34);
+    font-weight: bold;
+}
+p {
+    color: rgb(0, 255, 34);
+    font-weight: bold;
+}
